@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-[Crear usuario][cambiar colores]
-=======
-[Crear usuario] [coneccion BD]
->>>>>>> 31c8233f67884655587e710466177895193fe32f
+[Crear usuario][cambiar colores][coneccion BD]
 [Eliminar usuario]
 [Modificar usuario]
 [Agregar icono de usuario]
