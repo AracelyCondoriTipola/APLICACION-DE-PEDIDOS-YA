@@ -1,1 +1,2 @@
 [Crear usuario]
+[Eliminar usuario]
